@@ -1,4 +1,4 @@
-Ce programme vous permet de convertir avec le plus grand détail vos fichiers PDF au format HTML, les exmaples sont dans le dossier html.
+Ce programme vous permet de convertir avec le plus grand détail vos fichiers PDF au format HTML, les examples sont dans le dossier html.
 
 La librairie utilisé est local et open source.
 
@@ -8,7 +8,7 @@ La librairie utilisé est local et open source.
 
 TESTED ON UBUNTU ONLY
 PATH ARE NOT ABSOLUTE
-Please clone the project on /home/{YOUR_LOGGED_USER}
+Please clone the project on /home/{YOUR_LOGGED_USER}/
 
 # pdf_to_html
 PDF to HTML Convertor Anxhela &amp; Oualid
@@ -51,5 +51,5 @@ Response: HTML FILE
 
 
 ON WINDOWS change the sh script link with 
-pdh_to_html.sh file
+pdf_to_html.sh file
 docker run -ti --rm -v c:/pdf_to_html:/pdf bwits/pdf2htmlex pdf2htmlEX $1 $2
