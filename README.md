@@ -22,10 +22,14 @@ Library Credits to:  coolwanglu /pdf2htmlEX
 ## Testing
 
 Method: @POST 
-endpoint: http://127.0.0.1:8000/converter
+
+Endpoint: http://127.0.0.1:8000/converter
+
 Body: JSON
 
 Body Example:
  {
     "url" : "https://www.archipel-thau.com/medias/images/prestataires/Archipel-Magazine-Archipel-de-Thau-Destination-Mediterranee.pdf"
  }
+
+Response: HTML FILE
