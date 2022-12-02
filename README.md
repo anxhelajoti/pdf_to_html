@@ -21,8 +21,11 @@ Library Credits to:  coolwanglu /pdf2htmlEX
 
 ## Testing
 
-@POST http://127.0.0.1:8000/converter
+Method: @POST 
+endpoint: http://127.0.0.1:8000/converter
+Body: JSON
 
+Body Example:
  {
-    "url" : "myurl.pdf"
+    "url" : "https://www.archipel-thau.com/medias/images/prestataires/Archipel-Magazine-Archipel-de-Thau-Destination-Mediterranee.pdf"
  }
