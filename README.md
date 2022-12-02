@@ -12,7 +12,7 @@ Library Credits to:  coolwanglu /pdf2htmlEX
 
 ### To start on new environment
 - ```docker pull bwits/pdf2htmlex```
-- ```pip3 install fastapi pydantic uvicorn```
+- ```pip install fastapi pydantic uvicorn```
 
 ### To run at the root app do:
 
