@@ -7,7 +7,7 @@ Library Credits to:  coolwanglu /pdf2htmlEX
 
 
 ### Pré-requis
-- ```Docker (en ajoutant l'utilisateur au groupe docker)```
+- ```lancer Docker (il faut avoir ajouter auparavant l'utilisateur au groupe docker)```
 - ```Python 3 with pip```
 
 ### To start on new environment
